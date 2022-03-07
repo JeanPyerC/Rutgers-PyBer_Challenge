@@ -1,1 +1,3 @@
-# Rutgers-PyBer_Challenge
+# Rutgers- PyBer Challenge
+
+##Purpose of 
