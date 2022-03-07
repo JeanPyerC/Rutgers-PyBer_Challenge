@@ -9,26 +9,32 @@
  **1. I was able to get the total number of rides for each city type.**  
   - Focusing the Merge Data Frame. 
   - By grouping the type under header "type" and counting the id under header "ride_id", we got the following results.
-    
+![](https://github.com/JeanPyerC/Rutgers-PyBer_Challenge/blob/main/Pyber_Ride_Analysis/Photos/Task1.png)
+
+
 **2. I was able to get the total number of drivers for each city type.**  
   - Focusing on the City Data Frame.
   - By grouping the type under header "type" and adding the numeric value under header "driver count". 
-   
+![](https://github.com/JeanPyerC/Rutgers-PyBer_Challenge/blob/main/Pyber_Ride_Analysis/Photos/Task2.png)
+
 **3. I was able to get the sum of the fares for each city type.**  
   - Focusing on the Merge Data Frame.  
   - By grouping the type under header "type" and adding the numeric value under header "fare".
-    
+![](https://github.com/JeanPyerC/Rutgers-PyBer_Challenge/blob/main/Pyber_Ride_Analysis/Photos/Task3.png)
+
 **4. I was able to get the average fare per ride for each city type.**  
   - Focusing on the Merge Data Frame.
   - By grouping the type under header "type" and using the mean ot find the average under header "fare".
+ ![](https://github.com/JeanPyerC/Rutgers-PyBer_Challenge/blob/main/Pyber_Ride_Analysis/Photos/Task4.png)
  
 **5. I was able to find the average fare per driver for each city.**  
   - By taking the values we already created such as "Total Fare" and "Total Drivers".
   - Both values were divded and the amount was showing by the city type. 
+ ![](https://github.com/JeanPyerC/Rutgers-PyBer_Challenge/blob/main/Pyber_Ride_Analysis/Photos/Task5.png)
     
 **6. I created a new DataFrame by summarzing the data I created and formatting it.**  
   - Nothing was added or changed, I just created a new dataframe by using the value I created.
-    
+![](https://github.com/JeanPyerC/Rutgers-PyBer_Challenge/blob/main/Pyber_Ride_Analysis/Photos/Task6.png)
     
 ## Summary
 
@@ -41,5 +47,5 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; An *Urban Area* is a human settlement with a high population density and infrastructure of built environment. This area will contain a large number of people, large number of business area, this is a high priority. A great example will be like New York City. No one drives in the big city as the value of parking is to high, traffic is terrible, and to find parking is really difficult. Not only that, there are more visiors due when traveling for business. Focus on these areas on the most.
 
-    
+![](https://github.com/JeanPyerC/Rutgers-PyBer_Challenge/blob/main/Pyber_Ride_Analysis/Photos/Pyber_fare_summary.png)
  
